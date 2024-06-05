@@ -5,6 +5,6 @@ public class Main {
         System.out.printf("Hello and welcome!");
 
         for (int a = 1; a <= 5; a++)
-            System.out.println("a = " + a);
+            System.out.println("a " + a);
     }
 }
